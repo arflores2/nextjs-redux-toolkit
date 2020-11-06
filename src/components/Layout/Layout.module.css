@@ -1,0 +1,25 @@
+.Layout {
+  width: 100%;
+}
+
+.Banner {
+  border-bottom: 1px solid #cccc;
+  height: 65px;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.BannerNav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  width: 400px;
+  padding-right: 20px;
+}
+
+.MainContent {
+
+}

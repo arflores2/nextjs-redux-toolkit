@@ -1,0 +1,1 @@
+export { Mapbox as Map } from './Map';

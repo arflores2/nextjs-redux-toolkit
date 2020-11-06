@@ -1,0 +1,10 @@
+.MapControlContainer {
+  position: absolute;
+  bottom: 40px;
+  right: 40px;
+
+  width: 200px;
+  height: 100px;
+
+  background: white;
+}
